@@ -4,6 +4,7 @@
 lesson_1：組み合わせ回路\
 lesson_2：順序回路\
 lesson_3：メモリアクセス(BRAM)\
+lesson_4：データ型関連
 
 ## 実行方法
 例) lesson1プロジェクトを実行する場合\
