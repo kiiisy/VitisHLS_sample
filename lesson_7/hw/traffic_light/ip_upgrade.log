@@ -1,0 +1,100 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.1 (lin64) Build 3865809 Sun May  7 15:04:56 MDT 2023
+| Date         : Thu May 22 14:08:05 2025
+| Host         : 2df93fe410a0 running 64-bit Ubuntu 22.04.5 LTS
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_TrafficLight_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_TrafficLight_0_0 (xilinx.com:hls:TrafficLight:1.0) from (Rev. -1789765771) to (Rev. -1789745890)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.1 (lin64) Build 3865809 Sun May  7 15:04:56 MDT 2023
+| Date         : Tue May 20 15:27:13 2025
+| Host         : 2df93fe410a0 running 64-bit Ubuntu 22.04.5 LTS
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_TrafficLight_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_TrafficLight_0_0 (xilinx.com:hls:TrafficLight:1.0) from (Rev. -1789775761) to (Rev. -1789765771)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.1 (lin64) Build 3865809 Sun May  7 15:04:56 MDT 2023
+| Date         : Mon May 19 15:37:51 2025
+| Host         : 2df93fe410a0 running 64-bit Ubuntu 22.04.5 LTS
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_TrafficLight_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_TrafficLight_0_0 (xilinx.com:hls:TrafficLight:1.0) from (Rev. -1789775890) to (Rev. -1789775761)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.1 (lin64) Build 3865809 Sun May  7 15:04:56 MDT 2023
+| Date         : Mon May 19 14:08:45 2025
+| Host         : 2df93fe410a0 running 64-bit Ubuntu 22.04.5 LTS
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_TrafficLight_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_TrafficLight_0_0 (xilinx.com:hls:TrafficLight:1.0) from (Rev. -1789776072) to (Rev. -1789775890)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.1 (lin64) Build 3865809 Sun May  7 15:04:56 MDT 2023
+| Date         : Mon May 19 12:47:12 2025
+| Host         : 2df93fe410a0 running 64-bit Ubuntu 22.04.5 LTS
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_TrafficLight_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_TrafficLight_0_0 (xilinx.com:hls:TrafficLight:1.0) from (Rev. -1789795855) to (Rev. -1789776072)
+

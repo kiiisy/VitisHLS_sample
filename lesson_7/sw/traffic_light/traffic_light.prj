@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="traffic_light" location="/home/user/work/2025/02_vitis_hls/qiita/lesson_7/sw/traffic_light" platform="/home/user/work/2025/02_vitis_hls/qiita/lesson_7/sw/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm" platformUID="xilinx:zybo-z7-10::0.0(custom)" systemProject="traffic_light_system" sysConfig="design_1_wrapper" runtime="cpp" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" dimmRepoPath="" mssSignature="6b75029344018a51eb53dd82c0682a57">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1513645316">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1839637110" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
